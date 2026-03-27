@@ -55,7 +55,7 @@ Soy estudiante de ingeniería de software con experiencia en desarrollo web. Me 
 
 <p>
 📧 <b>Email:</b> cesarnef@outlook.com <br>
-💼 Abierto a oportunidades y colaboración
+💼 <b>Linkedin:</b> https://www.linkedin.com/in/cesrodriguezsif/ <br>
 </p>
 
 <hr>
