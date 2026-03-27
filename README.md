@@ -1,3 +1,5 @@
+<img width="1416" height="440" alt="image" src="https://github.com/user-attachments/assets/27dab27e-edb4-437b-8f13-267e2c668e89" />
+
 <h1 align="center">👋 Hola, soy César Rodríguez</h1>
 
 <p align="center">
